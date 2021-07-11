@@ -1,0 +1,10 @@
+{
+	"services": {
+		"youtube": {
+			"deps": [],
+			"examples": ["https://www.youtube.com/watch?v=*", "https://youtu.be/*"],
+			"regex": "youtu(?:.*\/v\/|.*v\\=|\\.be\/)([A-Za-z0-9_\\-]{11})",
+			"code": "<iframe src=\"https://www.youtube.com/embed/{{1}}\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+		}
+	}
+}

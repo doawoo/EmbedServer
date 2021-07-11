@@ -1,0 +1,6 @@
+%{
+  "earmark": {:hex, :earmark, "1.4.15", "2c7f924bf495ec1f65bd144b355d0949a05a254d0ec561740308a54946a67888", [:mix], [{:earmark_parser, ">= 1.4.13", [hex: :earmark_parser, repo: "hexpm", optional: false]}], "hexpm", "3b1209b85bc9f3586f370f7c363f6533788fb4e51db23aa79565875e7f9999ee"},
+  "earmark_parser": {:hex, :earmark_parser, "1.4.13", "0c98163e7d04a15feb62000e1a891489feb29f3d10cb57d4f845c405852bbef8", [:mix], [], "hexpm", "d602c26af3a0af43d2f2645613f65841657ad6efc9f0e361c3b6c06b578214ba"},
+  "jason": {:hex, :jason, "1.2.2", "ba43e3f2709fd1aa1dce90aaabfd039d000469c05c56f0b8e31978e03fa39052", [:mix], [{:decimal, "~> 1.0 or ~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "18a228f5f0058ee183f29f9eae0805c6e59d61c3b006760668d8d18ff0d12179"},
+  "typed_struct": {:hex, :typed_struct, "0.2.1", "e1993414c371f09ff25231393b6430bd89d780e2a499ae3b2d2b00852f593d97", [:mix], [], "hexpm", "8f5218c35ec38262f627b2c522542f1eae41f625f92649c0af701a6fab2e11b3"},
+}
