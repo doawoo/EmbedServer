@@ -23,6 +23,7 @@ defmodule EmbedServer.MixProject do
     [
       {:jason, "~> 1.2"},
       {:typed_struct, "~> 0.2.1"},
+      {:tesla, "~> 1.4"},
       {:earmark, "~> 1.4"}
     ]
   end
